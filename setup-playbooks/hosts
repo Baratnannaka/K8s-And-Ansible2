@@ -1,0 +1,6 @@
+[kubernetes-master-nodes]
+172.31.44.22
+
+[kubernetes-worker-nodes]
+172.31.34.121
+172.31.33.202
